@@ -1,1 +1,2 @@
-export class Song {}
+export class Song {
+}
